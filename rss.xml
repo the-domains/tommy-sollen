@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tommy Sollén]]></title>
+        <description><![CDATA[Tommy Sollén]]></description>
+        <link>https://thegrid.ai/tommy-sollen/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 18:53:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tommy-sollen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Amsterdam]]></title>
+            <description><![CDATA[<article><h1>Amsterdam</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6942b73d77804be7b9c13f3da3ff32c9a9df0401.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tommy-sollen/amsterdam/index.html</link>
+            <guid isPermaLink="false">6cd5633f-af45-4d33-8d51-dac9cb5983f0</guid>
+            <pubDate>Tue, 29 Dec 2015 18:53:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amsterdam]]></title>
+            <description><![CDATA[<article><h1>Amsterdam</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1ec8cc518e60ea78cc9082e67f2d40f9ef19c47.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tommy-sollen/amsterdam/index.html</link>
+            <guid isPermaLink="false">964f9b55-4647-4bbf-b532-ad01d8d3783b</guid>
+            <pubDate>Tue, 29 Dec 2015 18:51:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
