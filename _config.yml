@@ -1,0 +1,29 @@
+typography_spectrum: 0.8663503567222506
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.877476453082636
+  lightness: 0.28601923887617886
+  saturation: 0.5189658817835152
+  rhythmicContrast: 0.8789822708349675
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.34290501894429326
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Tommy Sollén
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Get a job and a haircut
+purpose: []
