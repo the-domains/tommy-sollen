@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tommy Sollén]]></title>
+        <description><![CDATA[Tommy Sollén]]></description>
+        <link>https://thegrid.ai/tommy-sollen/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 14:57:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tommy-sollen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://img0.joyreactor.com/pics/post/funny-pictures-auto-brain-left-382824.jpeg"></article>]]></description>
+            <link>http://img0.joyreactor.com/pics/post/funny-pictures-auto-brain-left-382824.jpeg</link>
+            <guid isPermaLink="false">9d7532cc-c23e-4f62-b788-f7bcd92d533d</guid>
+            <pubDate>Thu, 01 Sep 2016 14:56:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af3f662c-d59e-4135-8791-2e08d9958c96.jpg">]]></description>
+            <link>https://thegrid.ai/tommy-sollen/2b701ad5-7aa0-4805-af40-34a888564c07/index.html</link>
+            <guid isPermaLink="false">2b701ad5-7aa0-4805-af40-34a888564c07</guid>
+            <pubDate>Thu, 01 Sep 2016 14:51:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
